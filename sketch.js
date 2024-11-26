@@ -1,5 +1,5 @@
 let cellSize = 60; // Tamanho das células
-let countdown = 25; // Tempo para vencer
+let countdown = 20; // Tempo para vencer
 let timer;
 let ghosts = [
   { x: 3, y: 5, direction: 1 },  // Fantasma 1
